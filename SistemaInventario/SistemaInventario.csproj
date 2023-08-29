@@ -23,9 +23,4 @@
     <ProjectReference Include="..\SistemaIventario.Utilidades\SistemaInventario.Utilidades.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Areas\Admin\Controllers\" />
-    <Folder Include="Areas\Admin\Views - Copia\" />
-  </ItemGroup>
-
 </Project>
